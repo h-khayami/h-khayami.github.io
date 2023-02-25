@@ -17,6 +17,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I received my B.S. degree in electrical engineering (communications) from University of Tehran, in 2013, and M.S. degree in electrical engineering from Sharif University of Technology, in 2015. My special fields of interest include <strong>modern channel coding</strong> and <strong> Internet of Things</strong>.
+
+With over 8 years hands-on experience in electrical engineering, specially embedded system design and digital telecommunication engineering. Now, I am a <strong>senior embedded system engineer</strong> at Sarveen Technologies, designing network infrastructre for IoT devices and developing ultra low-power nodes in our network.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
