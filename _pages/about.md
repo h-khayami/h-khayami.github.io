@@ -20,3 +20,6 @@ As a PhD student in Electrical and Computer Engineering at the University of Mar
 
 Prior to pursuing my PhD, I gained extensive experience as a data analysis and network performance engineer, IoT engineer, and head of an embedded system engineering team. I earned my M.S. degree in Electrical Engineering from Sharif University of Technology in 2015, and my B.S. degree in Electrical Engineering (Communications) from the University of Tehran in 2013.
 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
