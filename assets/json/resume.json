@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Hossein Khayami",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://h-khayami.github.io/",
+    "summary": "PhD student at the University of Maryland, my current research focuses on applying AI/ML to accessibility and assistive technology.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {

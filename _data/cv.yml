@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hossein Khayami
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Maryland, College Park, USA
+      year: expected 2026
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.Sc.
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2015
       description:
         - Description 1.
         - Description 2.

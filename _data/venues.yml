@@ -10,5 +10,12 @@
 
 "Scientia":
   url: "https://scientiairanica.sharif.edu/"
+
+"IMWUT":
+  url: https://dl.acm.org/journal/imwut
+
+"CHI":
+  url: https://dl.acm.org/conference/chi
+
 "Vision":
   color: "#009f36"
