@@ -9,7 +9,7 @@ last_name: Khayami
 email: khayami@umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My homepage. I am a Ph.D. student at the University of Maryland, College Park. 
-footer_text: #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: > #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Hossein Khayami, Coded Computation, IoT, ML # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
