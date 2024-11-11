@@ -1,32 +1,34 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Hossein Khayami
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: Profile
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Hossein Khayami
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Student in Electrical Engineering
       institution: University of Maryland, College Park, USA
       year: expected 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: M.Sc.
+        - "Specialization: Communication and Signal Processing"
+        - "GPA: 3.7/4.0"
+    - title: M.Sc. in Electrical Engineering
       institution: Sharif University of Technology, Tehran, Iran
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - "Specialization: Communication Systems"
+        - "GPA: 4.0/4.0"
+    - title: B.Sc. in Electrical Engineering
+      institution: University of Tehran, Tehran, Iran
+      year: 2013
+      description:
+        - "Specialization: Telecommunications"
+        - "GPA: 3.5/4.0"
 
 - title: Experience
   type: time_table
@@ -79,17 +81,25 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI for Accessibility and Assistive Technologies
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Human-Computer Interaction
+        - Older Adults
+    - title: Signal Processing and Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Deep Learning
+        - Time Series Analysis
+    - title: Embedded System
+      items:
+        - Internet of Things
+        - Health monitoring devices
+    - title: Distributed Systems
+      items:
+        - Federated Learning
+        - Edge Computing
 
 - title: Other Interests
   type: list
