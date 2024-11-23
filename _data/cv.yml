@@ -52,7 +52,7 @@
         - Design and development of a wireless network for real-time location tracking of assets through two-layer edge architecture.
         - title: Impacts
           contents:
-            - 50% reduction in network coverage cost. 
+            - 50% reduction in network coverage cost.
             - Lowered hardware and infrastructure requirements.
 
     - title: Data Analyst, Network Performance Engineerd
@@ -62,12 +62,11 @@
         - title: Projects
           contents:
             - Automation of network performance report generation.
-            - Data analysis for network planning. 
+            - Data analysis for network planning.
             - Network KPIs monitoring and reporting.
         - title: Technologies
           contents:
             - Python, SQL, Tableau, Pandas, Hadoop, Spark
-
 
     - title: Senior Hardware Engineer
       institution: <a href = "https://arshon.com/">Arshon Technology</a>
@@ -129,7 +128,6 @@
       items:
         - Federated Learning
         - Edge Computing
-
 # - title: Other Interests
 #   type: list
 #   contents:
