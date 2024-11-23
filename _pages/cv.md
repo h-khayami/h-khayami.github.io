@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 4
 cv_pdf: Hossein_Khayami_Resume.pdf
 # nav_order: 5

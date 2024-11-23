@@ -13,19 +13,19 @@
   contents:
     - title: PhD Student in Electrical Engineering
       institution: University of Maryland, College Park, USA
-      year: expected 2026
+      year: 2021 - 2026
       description:
         - "Specialization: Communication and Signal Processing"
         - "GPA: 3.7/4.0"
     - title: M.Sc. in Electrical Engineering
       institution: Sharif University of Technology, Tehran, Iran
-      year: 2015
+      year: 2013 - 2015
       description:
         - "Specialization: Communication Systems"
         - "GPA: 4.0/4.0"
     - title: B.Sc. in Electrical Engineering
       institution: University of Tehran, Tehran, Iran
-      year: 2013
+      year: 2008 - 2013
       description:
         - "Specialization: Telecommunications"
         - "GPA: 3.5/4.0"
@@ -33,53 +33,82 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Intelligent Assistive Machines (IAM) Lab, University of Maryland
+      year: 2023 - Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Supervised by <a href = "https://scholar.google.com/citations?user=El-R5MEAAAAJ">Dr. Hernisa Kacorri</a>.
+        - Working on AI for Accessibility and Assistive Technologies.
+        - title: Projects
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Ground-truth data collection for older adults activity tracking. (Data analysis)
+            - Personalized activity recognition for older adults using smartwatches. (Machine learning)
+            - Understanding older adults' activities of interest. (HCI, Data analysis)
+            - Undestanding older adults' preferences of modality for smartwatch interaction. (HCI, Co-desgin)
+    - title: RTLS IoT Network Engineer
+      institution: <a href = "https://vicinia.io/">Vicinia</a>
+      year: Summer 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Design and development of a wireless network for real-time location tracking of assets through two-layer edge architecture.
+        - title: Impacts
+          contents:
+            - 50% reduction in network coverage cost. 
+            - Lowered hardware and infrastructure requirements.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Data Analyst, Network Performance Engineerd
+      institution: <a href = "https://irancell.ir/en/home">MTN Irancell</a>
+      year: 2020 - 2021
+      description:
+        - title: Projects
+          contents:
+            - Automation of network performance report generation.
+            - Data analysis for network planning. 
+            - Network KPIs monitoring and reporting.
+        - title: Technologies
+          contents:
+            - Python, SQL, Tableau, Pandas, Hadoop, Spark
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+
+    - title: Senior Hardware Engineer
+      institution: <a href = "https://arshon.com/">Arshon Technology</a>
+      year: 2020 - 2021
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Head of Embedded Systems team
+      institution: <a href = "http://sarveentech.ir/">Sarveen Technologies</a>
+      year: 2016 - 2020
+      description:
+        - title: Projects
+          contents:
+            - "SmartTag: Dairy cows activity tracking devices."
+            - "MilkMeter: An electronic non-mechanical milk yield measurement device."
+            - "E-nose: An electronic nose for detecting cows exhaled gases."
+            - "ForcePlate: A force plate for measuring cows' weight while walking"
+        - title: Skills
+          contents:
+            - Team Management
+            - Circuit and PCB Design
+            - Embedded Programming (RTOS, C/C++)
+            - Wireless IoT Protocols (BLE, Zigbee, LoRa, WiFi)
+            - Signal Processing
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/h-khayami">GitHub Profile</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
 - title: Research Interests
   type: nested_list
@@ -101,7 +130,7 @@
         - Federated Learning
         - Edge Computing
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
