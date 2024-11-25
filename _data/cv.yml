@@ -72,6 +72,12 @@
       institution: <a href = "https://arshon.com/">Arshon Technology</a>
       year: 2020 - 2021
       description:
+        - title: Project
+          contents:
+            - Designed and developed the hardware of an industrial IoT gateway at Arshon Technology.
+        - title: Skills
+          contents:
+            - Circuit and PCB Design (Altium Designer)
 
     - title: Head of Embedded Systems team
       institution: <a href = "http://sarveentech.ir/">Sarveen Technologies</a>
@@ -86,7 +92,7 @@
         - title: Skills
           contents:
             - Team Management
-            - Circuit and PCB Design
+            - Circuit and PCB Design (Altium Designer)
             - Embedded Programming (RTOS, C/C++)
             - Wireless IoT Protocols (BLE, Zigbee, LoRa, WiFi)
             - Signal Processing
