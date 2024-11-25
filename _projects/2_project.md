@@ -4,7 +4,7 @@ title: project 2
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: work_temp #change it back to work if you want to use it
 giscus_comments: true
 ---
 

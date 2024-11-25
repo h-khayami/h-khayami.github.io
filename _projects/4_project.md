@@ -4,7 +4,7 @@ title: project 4
 description: another without an image
 img:
 importance: 3
-category: fun
+category: fun_temp #change it back to fun if you want to use it
 ---
 
 Every project has a beautiful feature showcase page.

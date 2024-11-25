@@ -5,7 +5,7 @@ description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: work_temp #change it back to work if you want to use it
 ---
 
 Every project has a beautiful feature showcase page.

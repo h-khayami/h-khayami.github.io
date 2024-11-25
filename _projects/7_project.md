@@ -4,7 +4,7 @@ title: project 7
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: work_temp #change it back to work if you want to use it
 related_publications: true
 ---
 
