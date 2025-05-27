@@ -17,6 +17,12 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As a PhD student in Electrical and Computer Engineering at the University of Maryland, I'm deeply passionate about the intersection of communication, channel coding, Internet of Things, and Machine Learning. Currently, my research focuses on Human Activity Recognition systems and creating teachable interfaces that allow non-expert users to customize AI models for their specific needs.
+**Innovator at the Intersection of AI, IoT, and Human-Centered Technology**
 
-Prior to pursuing my PhD, I gained extensive experience as a data analysis and network performance engineer, IoT engineer, and head of an embedded system engineering team. I earned my M.S. degree in Electrical Engineering from Sharif University of Technology in 2015, and my B.S. degree in Electrical Engineering (Communications) from the University of Tehran in 2013.
+I am a **PhD researcher** in Electrical Engineering at the **University of Maryland**, driven by the challenge of integrating signal processing, machine learning, and human-centered AI systems. My work focuses on **Human Activity Recognition**, **wearable devices**, and designing **teachable AI** interfaces—empowering non-experts to adapt models to their needs with ease.
+With a multi-faceted engineering background, I began my career exploring robotics, later expanding into **embedded systems, communications, IoT, and machine learning**. This interdisciplinary approach allows me to bridge disciplines, translating complex technical challenges into impactful, real-world solutions.
+
+I hold an M.S. in Electrical Engineering from Sharif University of Technology (2015) and a B.S. in Electrical Engineering (Communications) from the University of Tehran (2013).
+
+My career has been defined by a commitment to never settling—continuously expanding my expertise to craft cutting-edge solutions across multiple domains. I believe innovation happens where disciplines converge, and I embrace that uniqueness in my work.
+
