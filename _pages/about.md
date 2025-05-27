@@ -25,4 +25,3 @@ With a multi-faceted engineering background, I began my career exploring robotic
 I hold an M.S. in Electrical Engineering from Sharif University of Technology (2015) and a B.S. in Electrical Engineering (Communications) from the University of Tehran (2013).
 
 My career has been defined by a commitment to never settling—continuously expanding my expertise to craft cutting-edge solutions across multiple domains. I believe innovation happens where disciplines converge, and I embrace that uniqueness in my work.
-
