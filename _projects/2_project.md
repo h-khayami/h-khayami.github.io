@@ -48,6 +48,7 @@ This is an interactive game developed for Arduino with an OLED display (128x64 p
 ## Hardware Components
 
 ### Electronics
+
 - **Microcontroller**: ESP32 board
 - **Display**: SSD1306 OLED Display (128x64 pixels, I2C)
 - **IMU Sensor**: MPU9265 (9-axis motion tracking)
@@ -55,15 +56,15 @@ This is an interactive game developed for Arduino with an OLED display (128x64 p
 
 ### Pin Configuration
 
-| Button | Pin | Function |
-|--------|-----|----------|
-| UP | 19 | Move pixel up |
-| DOWN | 18 | Move pixel down |
-| LEFT | 5 | Move pixel left / Select Easy mode |
-| RIGHT | 17 | Move pixel right / Select Hard mode |
-| MID | 16 | Middle button |
-| SET | 4 | Settings button |
-| RST | 0 | Reset button |
+| Button | Pin | Function                            |
+| ------ | --- | ----------------------------------- |
+| UP     | 19  | Move pixel up                       |
+| DOWN   | 18  | Move pixel down                     |
+| LEFT   | 5   | Move pixel left / Select Easy mode  |
+| RIGHT  | 17  | Move pixel right / Select Hard mode |
+| MID    | 16  | Middle button                       |
+| SET    | 4   | Settings button                     |
+| RST    | 0   | Reset button                        |
 
 ## Software Architecture
 
@@ -72,23 +73,28 @@ The project demonstrates clean object-oriented design with the following compone
 ### Core Classes
 
 **`Pixel`** - Manages the player-controlled pixel
+
 - Handles movement with boundary checking
 - Position starts at center of screen (64, 32)
 
 **`Targets`** - Manages up to 5 targets on screen
+
 - States: ACTIVE, INACTIVE, HIT
 - Random position generation within screen boundaries
 
 **`Position`** - Simple 2D coordinate class
+
 - Stores x, y coordinates
 - Overloaded equality operators
 
 **`Renderer`** - Static methods for display rendering
+
 - Frame management
 - Border, pixel, and target rendering
 - Menu and game over screens
 
 **`MPU9265 Driver`** - Custom IMU sensor driver
+
 - Accelerometer and gyroscope reading
 - I2C communication at address 0x68
 
@@ -127,7 +133,6 @@ The complete source code, including all class implementations and the custom MPU
   </div>
 </div>
 
-
 ---
 
-*This project showcases the integration of multiple hardware components, real-time sensor processing, and interactive game design principles in an embedded systems context.*
+_This project showcases the integration of multiple hardware components, real-time sensor processing, and interactive game design principles in an embedded systems context._
