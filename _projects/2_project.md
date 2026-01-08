@@ -4,7 +4,7 @@ title: OLED Pixel Game with IMU Control
 description: An interactive Arduino game with accelerometer-based controls and OLED display
 img: assets/img/OLED_IMU.png
 importance: 2
-category: class projects
+category: Class Projects
 giscus_comments: false
 ---
 

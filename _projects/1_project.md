@@ -4,7 +4,7 @@ title: Whiteboard drawing robot
 description: Interactive Technologies in HCI course project
 img: assets/img/drawing_bot.jpg
 importance: 1
-category: class projects
+category: Class Projects
 related_publications: false
 ---
 
