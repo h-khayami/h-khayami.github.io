@@ -125,13 +125,9 @@ The project demonstrates clean object-oriented design with the following compone
 
 The complete source code, including all class implementations and the custom MPU9265 driver, is available on GitHub:
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  <div class="repo p-2">
-    <a href="https://github.com/h-khayami/pixel_game" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=h-khayami&repo=pixel_game&theme=default" alt="GitHub Repository">
-    </a>
-  </div>
-</div>
+<a href="https://github.com/h-khayami/pixel_game" target="_blank" class="btn btn-sm z-depth-0" role="button">
+  <i class="fa-brands fa-github"></i> h-khayami/pixel_game
+</a>
 
 ---
 
