@@ -22,3 +22,12 @@
 
 "arXiv":
   url: https://arxiv.org/
+
+"UbiComp":
+  url: https://dl.acm.org/conference/ubicomp
+
+"SIGACCESS":
+  url: https://dl.acm.org/journal/sigaccess
+
+"AICSP":
+  url: https://www.springer.com/journal/10470
