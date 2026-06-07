@@ -12,19 +12,19 @@
   type: time_table
   contents:
     - title: PhD Student in Electrical Engineering
-      institution: University of Maryland, College Park, USA
+      institution: University of Maryland, College Park, MD
       year: 2021 - 2026
       description:
         - "Specialization: Communication and Signal Processing"
         - "GPA: 3.7/4.0"
     - title: M.Sc. in Electrical Engineering
-      institution: Sharif University of Technology, Tehran, Iran
+      institution: Sharif University of Technology, Tehran
       year: 2013 - 2015
       description:
         - "Specialization: Communication Systems"
         - "GPA: 4.0/4.0"
     - title: B.Sc. in Electrical Engineering
-      institution: University of Tehran, Tehran, Iran
+      institution: University of Tehran, Tehran
       year: 2008 - 2013
       description:
         - "Specialization: Telecommunications"
@@ -35,17 +35,18 @@
   contents:
     - title: Research Assistant
       institution: Intelligent Assistive Machines (IAM) Lab, University of Maryland
-      year: 2023 - Current
+      year: 2023 - Present
       description:
         - Supervised by <a href = "https://scholar.google.com/citations?user=El-R5MEAAAAJ">Dr. Hernisa Kacorri</a>.
-        - Working on AI for Accessibility and Assistive Technologies.
-        - title: Projects
+        - Designing and evaluating deep learning models on wearable IMU time-series data for human activity recognition (HAR) with older adults.
+        - Developing personalized, teachable activity trackers that empower older adults to train models to their own needs and behaviors.
+        - title: Research Topics
           contents:
-            - Ground-truth data collection for older adults activity tracking. (Data analysis)
-            - Personalized activity recognition for older adults using smartwatches. (Machine learning)
-            - Understanding older adults' activities of interest. (HCI, Data analysis)
-            - Undestanding older adults' preferences of modality for smartwatch interaction. (HCI, Co-desgin)
-    - title: RTLS IoT Network Engineer
+            - Personalized activity recognition for older adults using smartwatch IMU sensors.
+            - Ground-truth data collection in naturalistic settings for HAR model training and evaluation.
+            - Teachable AI interfaces enabling non-expert end-users to adapt activity recognition models.
+            - Data-driven optimal IMU placement for human pose estimation.
+    - title: IoT Network Engineer
       institution: <a href = "https://vicinia.io/">Vicinia</a>
       year: Summer 2022
       description:
@@ -55,8 +56,8 @@
             - 50% reduction in network coverage cost.
             - Lowered hardware and infrastructure requirements.
 
-    - title: Data Analyst, Network Performance Engineerd
-      institution: <a href = "https://irancell.ir/en/home">MTN Irancell</a>
+    - title: Data Analyst, Network Performance Engineer
+      institution: <a href = "https://irancell.ir/en/home">MTN</a>
       year: 2020 - 2021
       description:
         - title: Projects
@@ -79,23 +80,27 @@
           contents:
             - Circuit and PCB Design (Altium Designer)
 
-    - title: Head of Embedded Systems team
+    - title: Head of Embedded Systems Team
       institution: <a href = "http://sarveentech.ir/">Sarveen Technologies</a>
       year: 2016 - 2020
       description:
-        - title: Projects
+        - Headed the embedded systems team delivering hardware, firmware, and wireless protocols across a full suite of AI-enabled livestock health monitoring devices.
+        - Owned procurement, manufacturing, and production for all hardware products; planned development timelines in collaboration with product managers and the sales team.
+        - Collaborated with ML, software, product management, and industrial design teams to drive end-to-end product delivery.
+        - title: Products
           contents:
-            - "SmartTag: Dairy cows activity tracking devices."
+            - "SmartTag: Ultra-low-power wearable for dairy cow activity recognition."
             - "MilkMeter: An electronic non-mechanical milk yield measurement device."
             - "E-nose: An electronic nose for detecting cows exhaled gases."
-            - "ForcePlate: A force plate for measuring cows' weight while walking"
+            - "ForcePlate: A walk-over weigh scale for measuring cows' weight."
         - title: Skills
           contents:
-            - Team Management
+            - Team Leadership & Project Management
             - Circuit and PCB Design (Altium Designer)
             - Embedded Programming (RTOS, C/C++)
             - Wireless IoT Protocols (BLE, Zigbee, LoRa, WiFi)
             - Signal Processing
+            - Manufacturing & Procurement
 
 # - title: Open Source Projects
 #   type: time_table
@@ -118,18 +123,22 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: AI for Accessibility and Assistive Technologies
-      items:
-        - Human-Computer Interaction
-        - Older Adults
     - title: Signal Processing and Machine Learning
       items:
-        - Deep Learning
-        - Time Series Analysis
-    - title: Embedded System
+        - Sensor Data Analysis
+        - Time Series Modeling
+    - title: Personalized & Teachable AI
       items:
-        - Internet of Things
-        - Health monitoring devices
+        - End-User Model Adaptation
+        - Machine Teaching
+    - title: HCI for Accessibility
+      items:
+        - Human-Centered AI
+        - Older Adults
+    - title: Embedded System & IoT
+      items:
+        - Low-Power Wearables
+        - Health Monitoring Devices
     - title: Distributed Systems
       items:
         - Federated Learning
