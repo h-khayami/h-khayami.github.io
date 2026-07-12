@@ -26,6 +26,9 @@
 "UbiComp":
   url: https://dl.acm.org/conference/ubicomp
 
+"UbiComp/ISWC":
+  url: https://dl.acm.org/conference/ubicomp
+
 "SIGACCESS":
   url: https://dl.acm.org/journal/sigaccess
 
